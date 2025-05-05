@@ -1,0 +1,5 @@
+__pycache__/         # Python bytecode caches
+*.pyc                # Python compiled files
+*.log                # Log files
+.env                 # If you use environment variables
+venv/                # Virtual environment folder
